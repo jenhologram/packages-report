@@ -1,1 +1,1 @@
-a <- data.frame(1:10)
+data.frame(1:10)
