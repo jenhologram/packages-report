@@ -11,3 +11,4 @@ dirs <- keep(dirs, dir_exists())
 # instead of source source source, could use pacakge from gabor(ta), callr::r
 #
 #   runs in independent r sessions, whereas source source source runs them one after another
+# here we go
