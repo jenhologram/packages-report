@@ -12,3 +12,4 @@ dirs <- keep(dirs, dir_exists())
 #
 #   runs in independent r sessions, whereas source source source runs them one after another
 # here we go
+# Remote awesome work
